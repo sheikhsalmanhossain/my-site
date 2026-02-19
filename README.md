@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/portfolio.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/sheikhsalmanhossain/).
 
 ### License
 
